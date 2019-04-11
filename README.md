@@ -1,2 +1,2 @@
 # hello-world
-learning
+learning coding, hope to make something interesting.
